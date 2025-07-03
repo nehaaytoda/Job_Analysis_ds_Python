@@ -118,7 +118,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Scientist in the India](images/Trending_Top_Skills.png)  
+![Trending Top Skills for Data Scientist in the India](images/Trending_top_skills.png)  
 *Line graph visualizing the trending top skills for data Scientist in the India in 2023.*
 
 ### Insights:

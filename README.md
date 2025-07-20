@@ -99,7 +99,7 @@ plt.show()
 
 To find how skills are trending in 2023 for Data Scientist, I filtered data scientist positions and grouped the skills by the month of the job postings. This got me the top 5 skills of data scientist by month, showing how popular skills were throughout 2023.
 
-View my notebook with detailed steps here: [3_Skills_Trend](3_Skill_Trend.ipynb).
+View my notebook with detailed steps here: [3_Skill_Trend](3_Skill_trend.ipynb).
 
 ### Visualize Data
 
